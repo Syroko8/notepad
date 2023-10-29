@@ -1,14 +1,9 @@
 # notepad
-notepad
+Hi there!
 
-##  notas de programacion
+## hackerrank
+here is an interesting resource called [hackerrank](https://www.hackerrank.com/domains/java) to do Java exercises online.
 
-`aqui las notas`
+There are some challegnes and there is an editor to work on it. 
+When you has finished, you can check the results to know if the solution is good or bad
 
-- notya 1
-- noyta 3
-- nota 4
-  - ododf
-  - dfiidof
- 
-  hello nick
