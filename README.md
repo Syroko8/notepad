@@ -1,5 +1,7 @@
 # notepad
 Hi there!
 
-https://github.com/Syroko8/playground/#/README.md
+visit our documentation here: 
+
+https://syroko8.github.io/notepad/#/README.md
 
