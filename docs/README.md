@@ -9,11 +9,11 @@ https://docsify.js.org/#/quickstart
 ## Working in local environment
 
 ```bash
-npm i docsify-cli -g
+01-npm i docsify-cli -g
 
 # or
 
-npm i docsify-cli 
+01-npm i docsify-cli 
 ```
 
 init docs
@@ -60,7 +60,7 @@ docsify generate .
 ```bash
 rm _sidebar.md 
 
-docsify generate /docs
+docsify generate ./docs
 ```
 
 - every time you push the files over the docs folder, the deploy refresh the changes 
