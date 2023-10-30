@@ -36,7 +36,7 @@ docsify generate .
 ## publishing on github: github-pages
 
 - into the github repo, go to setting -> pages
-- into Build and deployment paragraph, select master-> /docs
+- into branch paragraph, select master-> /docs
 - configure deployment to static site. An static.yml is created and commit & push to master.
 - into the index.html docsify file, setup the repo property `repo`
 
