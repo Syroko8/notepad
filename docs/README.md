@@ -2,12 +2,18 @@
 
 this repo is intended to play with the code and for technical tests.
 
-## docsify
+## docsify reference
 
 https://docsify.js.org/#/quickstart
 
+## Working in local environment
+
 ```bash
 npm i docsify-cli -g
+
+# or
+
+npm i docsify-cli 
 ```
 
 init docs
