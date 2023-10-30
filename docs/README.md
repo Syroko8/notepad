@@ -25,18 +25,6 @@ Generate de _sidebar.md file
 rm _sidebar.md 
 
 docsify generate .
-
-docsify generate <path> [--sidebar _sidebar.md]
-
-docsify generate ./docs
-```
-
-```bash
-# Utilities for generate all the _sidebar.md files, althought you don't need it
-find docs -type d | grep -v _img | xargs -I{} sh -c 'docsify generate "{}"'
-
-# utility to delete all the _sidebar.md in order to regenerate new ones
-find docs -type f -name "_sidebar.md" -exec rm {} \;
 ```
 
 ## publishing on github: github-pages
@@ -52,7 +40,7 @@ find docs -type f -name "_sidebar.md" -exec rm {} \;
       name: 'playground',
       repo: 'https://github.com/amartinm7/playground/tree/master/docs',
       loadSidebar: true,
-      subMaxLevel: 5,
+      subMaxLevel: 3,
       search: 'auto',
       loadNavbar: true,
       coverpage: true,
