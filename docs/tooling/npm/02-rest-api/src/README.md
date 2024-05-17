@@ -1,4 +1,4 @@
-# Rest api
+# Rest api example
 
 We are going to use the Fake API to test rest api calls
 https://jsonplaceholder.typicode.com/
