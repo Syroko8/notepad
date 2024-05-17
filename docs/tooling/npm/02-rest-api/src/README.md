@@ -5,6 +5,14 @@ https://jsonplaceholder.typicode.com/
 
 The purpose of this project is to test rest api calls and play with the chained promises
 
+## Install npm and nvm
+
+First of all, you need to install npm and nvm. You can follow the instructions in the following link:
+
+https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+
+`We strongly recommend using a Node version manager like nvm to install Node.js and npm. We do not recommend using a Node installer, since the Node installation process installs npm in a directory with local permissions and can cause permissions errors when you run npm packages globally.`
+
 ## Instructions to run the project
 
 Over this folder execute the following commands:
