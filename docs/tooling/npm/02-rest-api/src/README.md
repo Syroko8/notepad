@@ -5,7 +5,7 @@ https://jsonplaceholder.typicode.com/
 
 The purpose of this project is to test rest api calls and play with the chained promises
 
-## Install npm and nvm in case you don't have it
+## Install npm (and nvm) in case you don't have it
 
 First of all, you need to install `npm` and `nvm`. You can follow the instructions in the following link:
 
